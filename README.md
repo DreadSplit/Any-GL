@@ -14,4 +14,3 @@ Steps for setting up the auto splitter.
 
 * Due to Speedrun.com time ruling and the way the auto splitter works, I cannot make the autosplitter start at the appropriate time. You will have to start your timer like normal then the autosplitter will take over.
 * The autosplitter does not prevent you from manually splitting, so if it misses a split you can manually do it and the autosplitter will adjust accordingly.
-* The files are all labeled either +LR(with load remover) or -LR(without load remover)
