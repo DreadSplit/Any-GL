@@ -5,7 +5,7 @@ Placeholder Readme while autosplitter is being worked on.
 Steps for setting up the auto splitter.
 
 1. Go to https://github.com/Avasam/AutoSplit#tutorial and download the latest auto splitter release, and scroll down to Live Split Integration to get the .dll. Version at time of writing: v2.0.0
-2. Place the downloaded Autosplitter.exe and the Folders containg the splits in the same folder
+2. Place the downloaded Autosplitter.exe and the Ready for Beta Testing file in the same folder
 3. In OBS in the sources column right click your video capture and click "Windowed Projector (sources)"
 4. Make sure autosplitter sees the window, if the left side stays blank try clicking "Select Window" then your projector.
 5. Set the path of the Exe and the settings file.
