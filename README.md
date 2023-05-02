@@ -13,3 +13,6 @@ Steps for setting up the auto splitter.
 
 * Due to Speedrun.com time ruling and the way the auto splitter works, I cannot make the autosplitter start at the appropriate time. You will have to start your timer like normal then the autosplitter will take over until the very last split.
 * The autosplitter does not prevent you from manually splitting, so if it misses a split you can manually do it and the autosplitter will adjust accordingly.
+
+*Current images are for splits for weapon upgrades. Further images will be updated and distributed and if needed instructions will be given on how to add them your livesplit!*
+*Questions or Concerns, please do not hesitate to message BigSandwich#7909 - Or coding the autosplitter thread!*
