@@ -1,6 +1,6 @@
 Placeholder Readme while autosplitter is being worked on.
 
-
+Current Release: https://github.com/DreadSplit/Any-GL/releases/tag/autosplitter
 
 Steps for setting up the auto splitter.
 
